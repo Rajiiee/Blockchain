@@ -1,8 +1,8 @@
-# Blockchain C++ Implementation
+# Blockchain JavaScript Implementation
 
 ## Overview
 
-This repository contains a C++ implementation of a basic blockchain. It demonstrates fundamental blockchain concepts such as blocks, hashes, and chain validation.
+This repository contains a JavaScript implementation of a basic blockchain. It demonstrates fundamental blockchain concepts such as blocks, hashes, and chain validation.
 
 ## Features
 
